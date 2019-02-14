@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>Rimworld Made EZ</Name>
+	<modIds>
+		<li>1544705976</li>
+		<li>Core</li>
+		<li>962732083</li>
+		<li>1507748539</li>
+		<li>818773962</li>
+		<li>932008009</li>
+		<li>704181221</li>
+		<li>725947920</li>
+		<li>1336991209</li>
+		<li>1216999901</li>
+		<li>725130005</li>
+		<li>867467808</li>
+		<li>715759739</li>
+		<li>1588681499</li>
+		<li>1055485938</li>
+		<li>1236921420</li>
+		<li>1541721856</li>
+		<li>839005762</li>
+		<li>1545402212</li>
+		<li>1517406823</li>
+		<li>1180719857</li>
+		<li>972057888</li>
+		<li>1542424705</li>
+		<li>1433455150</li>
+		<li>1323773476</li>
+		<li>1316142788</li>
+		<li>717575199</li>
+		<li>1214615921</li>
+		<li>1309994319</li>
+		<li>1203903378</li>
+		<li>953758731</li>
+		<li>1372003680</li>
+		<li>1541250497</li>
+		<li>1541978411</li>
+		<li>1537871656</li>
+		<li>1157085076</li>
+		<li>730936602</li>
+		<li>761219125</li>
+		<li>761421485</li>
+		<li>1470065926</li>
+		<li>1356838246</li>
+		<li>1208468391</li>
+		<li>881100382</li>
+		<li>708455313</li>
+		<li>838336462</li>
+		<li>1522414793</li>
+		<li>1499848654</li>
+		<li>858744731</li>
+		<li>1523001773</li>
+		<li>1616643195</li>
+		<li>843504745</li>
+		<li>947972722</li>
+		<li>1639883955</li>
+		<li>1531882210</li>
+		<li>1322101066</li>
+		<li>1523682542</li>
+		<li>1268832971</li>
+		<li>1507216525</li>
+		<li>1583673431</li>
+		<li>1522415164</li>
+		<li>1583674064</li>
+		<li>1606391952</li>
+		<li>1346113625</li>
+		<li>1352123439</li>
+		<li>1444154109</li>
+		<li>1100547661</li>
+		<li>725949967</li>
+		<li>705924057</li>
+		<li>1583672991</li>
+		<li>1583672717</li>
+		<li>1498706339</li>
+		<li>1180826364</li>
+		<li>1556214130</li>
+		<li>1540475285</li>
+		<li>1644879310</li>
+		<li>932500565</li>
+		<li>1349384001</li>
+		<li>1544944259</li>
+		<li>1543561093</li>
+		<li>728314182</li>
+		<li>728315620</li>
+		<li>1543060282</li>
+		<li>749150111</li>
+		<li>1539309348</li>
+		<li>1536615776</li>
+		<li>1589401542</li>
+		<li>747397788</li>
+		<li>1541959128</li>
+		<li>937331021</li>
+		<li>1085320091</li>
+		<li>1554012670</li>
+		<li>1103809207</li>
+		<li>1578234826</li>
+		<li>1543556703</li>
+		<li>963265186</li>
+		<li>726121441</li>
+		<li>1390088618</li>
+		<li>1423699208</li>
+		<li>1158568885</li>
+		<li>1261792381</li>
+		<li>725956940</li>
+		<li>1633517937</li>
+		<li>1114619043</li>
+		<li>1494937292</li>
+		<li>884846971</li>
+		<li>1529637152</li>
+		<li>1539311991</li>
+		<li>943925765</li>
+		<li>1304432145</li>
+		<li>1180719658</li>
+		<li>850429707</li>
+		<li>746425621</li>
+		<li>1354114366</li>
+		<li>1565942758</li>
+		<li>1501052499</li>
+		<li>753498552</li>
+		<li>794038005</li>
+		<li>1076950211</li>
+		<li>1454024362</li>
+		<li>1467764609</li>
+		<li>933324235</li>
+		<li>1369828656</li>
+		<li>1279012058</li>
+		<li>1185265132</li>
+		<li>1496570408</li>
+		<li>1185278809</li>
+		<li>1185269798</li>
+		<li>1188485723</li>
+		<li>1185276569</li>
+		<li>1185274792</li>
+		<li>1192504741</li>
+		<li>1185307686</li>
+		<li>1550972678</li>
+		<li>1649025600</li>
+		<li>1185281838</li>
+		<li>1123043922</li>
+		<li>1478936958</li>
+		<li>1568200333</li>
+		<li>765351437</li>
+		<li>736207111</li>
+		<li>736172213</li>
+		<li>736139206</li>
+		<li>849231601</li>
+		<li>725576127</li>
+		<li>1365242717</li>
+		<li>731111514</li>
+		<li>1098354593</li>
+		<li>1552507180</li>
+		<li>830221184</li>
+		<li>1541261044</li>
+		<li>1130945311</li>
+		<li>1552146295</li>
+		<li>1571623829</li>
+		<li>942369931</li>
+		<li>1446523594</li>
+		<li>1572587699</li>
+		<li>946390822</li>
+		<li>1537869190</li>
+		<li>1414302321</li>
+		<li>826998327</li>
+		<li>709317151</li>
+		<li>1266570759</li>
+		<li>712141500</li>
+		<li>715565817</li>
+		<li>1509278793</li>
+		<li>725219116</li>
+		<li>1157350972</li>
+		<li>1501832876</li>
+		<li>1508850027</li>
+		<li>1561221991</li>
+		<li>1502875716</li>
+		<li>1542424571</li>
+		<li>1512950397</li>
+		<li>1624094549</li>
+		<li>1249684407</li>
+		<li>1553198886</li>
+		<li>1547306080</li>
+		<li>733364255</li>
+		<li>1541360626</li>
+		<li>726244033</li>
+		<li>774543761</li>
+		<li>1253251478</li>
+		<li>881580886</li>
+		<li>725153576</li>
+		<li>1414697588</li>
+		<li>1231617602</li>
+		<li>1552455241</li>
+		<li>1542379675</li>
+		<li>1552452572</li>
+		<li>1537786185</li>
+		<li>1544932892</li>
+		<li>1531640632</li>
+		<li>1542424432</li>
+		<li>1544626521</li>
+		<li>817902482</li>
+		<li>1542424055</li>
+		<li>1619558325</li>
+		<li>1539025677</li>
+		<li>1331961995</li>
+		<li>1217001091</li>
+		<li>773918229</li>
+		<li>730854291</li>
+		<li>732257433</li>
+		<li>1551524517</li>
+		<li>848972794</li>
+		<li>857350593</li>
+		<li>1541460369</li>
+		<li>1635565299</li>
+		<li>1502876618</li>
+		<li>1546370684</li>
+		<li>797360572</li>
+		<li>1552457762</li>
+		<li>1294779672</li>
+		<li>1539028008</li>
+		<li>882924533</li>
+		<li>949498803</li>
+		<li>1134165362</li>
+		<li>726479594</li>
+		<li>927155256</li>
+		<li>798158924</li>
+		<li>1511926373</li>
+		<li>1586143254</li>
+		<li>1517921835</li>
+		<li>715565262</li>
+		<li>735106432</li>
+		<li>725952322</li>
+		<li>1545126946</li>
+	</modIds>
+	<modNames>
+		<li>ModCheck</li>
+		<li>Core</li>
+		<li>RuntimeGC</li>
+		<li>Mod Manager</li>
+		<li>HugsLib</li>
+		<li>JecsTools</li>
+		<li>Miscellaneous 'CORE'</li>
+		<li>Rimsenal</li>
+		<li>[1.0] Advanced Animal Frameworks 3.3</li>
+		<li>Giddy-up! Core</li>
+		<li>P-Music</li>
+		<li>Camera+</li>
+		<li>Follow Me</li>
+		<li>Vanilla Animals Overhaul Reloaded</li>
+		<li>Megafauna</li>
+		<li>Muffalant</li>
+		<li>Alpha Animals</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>[SS]King's slaves</li>
+		<li>Herd Migration Revival</li>
+		<li>[KV] Path Avoid - 1.0</li>
+		<li>Prison Labor</li>
+		<li>Ugh You Got Me</li>
+		<li>Unroof the Hay! [1.0]</li>
+		<li>Meals On Wheels</li>
+		<li>Gear Up And Go</li>
+		<li>Misc. Training</li>
+		<li>Medical Training</li>
+		<li>Smart Medicine</li>
+		<li>1.0 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)</li>
+		<li>Science Never Stops</li>
+		<li>Replace Stuff</li>
+		<li>More Harvest Designators!</li>
+		<li>Veinminer R1.0</li>
+		<li>Blueprint Totals Tooltip</li>
+		<li>Locks</li>
+		<li>Achtung!</li>
+		<li>Defensive Positions</li>
+		<li>Allow Tool</li>
+		<li>[SYR] Set Up Camp</li>
+		<li>Share The Load</li>
+		<li>[1.0]-StockpileForDisaster</li>
+		<li>More Planning</li>
+		<li>Blueprints</li>
+		<li>Conduit Deconstruct</li>
+		<li>ItemListSelector</li>
+		<li>Toggle Harvest</li>
+		<li>Reverse Commands</li>
+		<li>No Debris B18</li>
+		<li>Recipe icons</li>
+		<li>Temperature Gauge</li>
+		<li>Heat Map</li>
+		<li>SimplyMoreFloors</li>
+		<li>Realistic Darkness 1.0</li>
+		<li>Snowy Trees</li>
+		<li>CCP's Stone Tweaks</li>
+		<li>Greenworld</li>
+		<li>[CP] Prisoner Outfit (1.0)</li>
+		<li>[Uru] VOCALOID Hair (1.0)</li>
+		<li>RimHair Styles Merged</li>
+		<li>[Uru] Rim Seraph hair (1.0)</li>
+		<li>[Ods] Womens Hair </li>
+		<li>gloomy_hair</li>
+		<li>[B19]GW-hair</li>
+		<li>Lolidrop's hairshop</li>
+		<li>Roppoi hair 1.0</li>
+		<li>Rimsenal - Rimhair</li>
+		<li>Xeva's Rimhair</li>
+		<li>[Uru] Kemono Friends Hair (1.0)</li>
+		<li>[Uru] Touhou Hair (1.0)</li>
+		<li>[SS]Lovely Hair Style</li>
+		<li>[KV] Show Hair With Hats or Hide All Hats - 1.0</li>
+		<li>[NL] Chibi Body</li>
+		<li>[NL] Chibi Face Female only</li>
+		<li>[FGO]Fate Grand Order - Styles Apparel Pack</li>
+		<li>Rimcolle</li>
+		<li>gloomy_dress</li>
+		<li>More Furniture [1.0]</li>
+		<li>[T] MoreFloors</li>
+		<li>RT Fuse</li>
+		<li>RT Solar Flare Shield</li>
+		<li>Additional Joy Objects Classic</li>
+		<li>Advanced Hydroponics</li>
+		<li>[RF] Advanced Bridges [1.0]</li>
+		<li>Cargo Pod Transport[1.0]</li>
+		<li>Fire Extinguisher</li>
+		<li>More Batteries</li>
+		<li>NW Sterile Wall R1.0</li>
+		<li>Mass Graves</li>
+		<li>Stronger Penoxycyline (1.0)</li>
+		<li>Regeneration Bay</li>
+		<li>More Linkables</li>
+		<li>Restraints</li>
+		<li>[T] MoreBedsVanilla</li>
+		<li>Tables+</li>
+		<li>Furnace</li>
+		<li>[KV] Change Mirror - 1.0</li>
+		<li>Wall Light</li>
+		<li>Various Space Ship Chunk</li>
+		<li>[1.0] Tranquilizer guns</li>
+		<li>Expanded Prosthetics and Organ Engineering</li>
+		<li>Raids For Me</li>
+		<li>Food Alert</li>
+		<li>Blighted Alert</li>
+		<li>Narco</li>
+		<li>Cryptorestore Caskets (1.0)</li>
+		<li>[RF] Fishing [1.0]</li>
+		<li>Fast regen 1.0</li>
+		<li>Clone Bay</li>
+		<li>[KV] Trading Spot - 1.0</li>
+		<li>Rah's Bionics and Surgery Expansion</li>
+		<li>A Dog Said... Animal Prosthetics</li>
+		<li>RimQuest</li>
+		<li>Colony Leadership</li>
+		<li>Pack Mules Extended</li>
+		<li>Hospitality</li>
+		<li>PrisonerRansom</li>
+		<li>Therapy</li>
+		<li>More Faction Interaction</li>
+		<li>Search and Destroy</li>
+		<li>Hardworking animals 1.0</li>
+		<li>[KV] Adjustable Trade Ships - 1.0</li>
+		<li>Pick Up And Haul</li>
+		<li>VGP Vegetable Garden</li>
+		<li>VGP Garden Canning</li>
+		<li>VGP Soylent Production</li>
+		<li>VGP Garden Fabrics</li>
+		<li>VGP Garden Drinks</li>
+		<li>VGP Garden Resources</li>
+		<li>VGP Garden Medicine</li>
+		<li>VGP More Veggies</li>
+		<li>VGP Garden Tools</li>
+		<li>[1.0] Defenses Expanded</li>
+		<li>Project Itzal - Main Pack</li>
+		<li>VGP Xtra Trees and Flowers</li>
+		<li>Sparkling Worlds - Full Mod</li>
+		<li>More Vanilla Turrets [1.0]</li>
+		<li>Vanilla-Like Security</li>
+		<li>Chemicals &amp; Neutroamine</li>
+		<li>Rimsenal - Feral</li>
+		<li>Rimsenal - Federation</li>
+		<li>Rimsenal - Security pack</li>
+		<li>Rimsenal - Enhanced Vanilla Pack</li>
+		<li>Glitter Tech</li>
+		<li>Pharmacist</li>
+		<li>Mad Skills</li>
+		<li>Animals Logic</li>
+		<li>Psychology</li>
+		<li>More vanilla factions</li>
+		<li>Let's Trade! [1.0]</li>
+		<li>[1.0] Trading Economy Mod 3.1</li>
+		<li>Real Ruins</li>
+		<li>[RF] Realistic Planets [1.0]</li>
+		<li>Damage Indicators</li>
+		<li>Dubs Mint Menus</li>
+		<li>Colorful Traits</li>
+		<li>ResearchPal</li>
+		<li>RaiderInfo</li>
+		<li>Numbers</li>
+		<li>Moody</li>
+		<li>Relations Tab</li>
+		<li>Research Tree</li>
+		<li>Animal Tab</li>
+		<li>Medical Tab</li>
+		<li>InventoryTab</li>
+		<li>Work Tab</li>
+		<li>[FSF] Complex Jobs</li>
+		<li>Color Coded Mood Bar</li>
+		<li>RimHUD</li>
+		<li>[1.0] RPG Style Inventory</li>
+		<li>SF [v1.0] Rain Removes All Filth</li>
+		<li>Snow Clearance Sanity</li>
+		<li>Muh Eggs! [1.0]</li>
+		<li>Overcapped Accuracy</li>
+		<li>Muffalant - A Dog Said Patch</li>
+		<li>Psychology Imprisonment Patch</li>
+		<li>Xen's Taming Fixer</li>
+		<li>No debuffs from pet killing\selling</li>
+		<li>More Slaves [1.0]</li>
+		<li>Fluffy Breakdowns</li>
+		<li>Less Rebuff</li>
+		<li>Giddy-up! Caravan</li>
+		<li>Accurate Mortars</li>
+		<li>Area Unlocker</li>
+		<li>Incident Person Stat</li>
+		<li>Just Ignore Me Passing</li>
+		<li>Less Arbitrary Surgery</li>
+		<li>[1.0] Dire Raids</li>
+		<li>Death Rattle</li>
+		<li>Predator Hunt Alert</li>
+		<li>Meal radius</li>
+		<li>[1.0] Drugs are not Food</li>
+		<li>Please Haul Perishables</li>
+		<li>While You're Up [1.0]</li>
+		<li>DeadMansClothing</li>
+		<li>Clear The Stockpiles</li>
+		<li>Stackable Chunks [1.0]</li>
+		<li>Cut plants before building</li>
+		<li>Giddy-up! Ride and Roll</li>
+		<li>Giddy-up! Battle Mounts</li>
+		<li>No Random Construction Quality</li>
+		<li>Prisoner Harvesting</li>
+		<li>Selling prisoners with no guilt</li>
+		<li>No Prison Breaks 1.0</li>
+		<li>Realistic Rooms</li>
+		<li>QualitySurgeon</li>
+		<li>Better Pawn Control</li>
+		<li>Simple Slavery[1.0]</li>
+		<li>SF [v1.0] Priority Treatment</li>
+		<li>[XND] AutoOwl</li>
+		<li>Grenade Fix: Rearmed</li>
+		<li>Run and Hide</li>
+		<li>PriorityClean Mod</li>
+		<li>Where is my weapon?</li>
+		<li>Accurate Mortars Lite</li>
+		<li>Haul to Stack</li>
+		<li>Avoid Friendly Fire</li>
+		<li>Rimworld Search Agency</li>
+		<li>Simple sidearms</li>
+		<li>Increased Stack</li>
+		<li>Animal Variety Coats</li>
+		<li>[1.0] Apparel Organizer</li>
+		<li>[SYR] Glowing Healroot</li>
+		<li>Colony Manager</li>
+		<li>EdB Prepare Carefully</li>
+		<li>Rimsenal - Storyteller pack</li>
+		<li>[1.0] Modlist</li>
+	</modNames>
+</ModList>
